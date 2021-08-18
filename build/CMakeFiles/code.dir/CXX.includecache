@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/betterme/code/Complex.h
+ostream
+-
+
+/home/betterme/code/String.h
+string.h
+-
+ostream
+-
+
+/home/betterme/code/jichengfuhe.h
+iostream
+-
+
+/home/betterme/code/main.cpp
+Complex.h
+/home/betterme/code/Complex.h
+String.h
+/home/betterme/code/String.h
+jichengfuhe.h
+/home/betterme/code/jichengfuhe.h
+iostream
+-
+virtualtest.h
+/home/betterme/code/virtualtest.h
+
+/home/betterme/code/virtualtest.h
+iostream
+-
+
