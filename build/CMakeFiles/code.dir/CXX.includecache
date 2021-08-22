@@ -16,6 +16,16 @@ string.h
 ostream
 -
 
+/home/betterme/code/TestArray.h
+array
+-
+cstdlib
+-
+istream
+-
+ctime
+-
+
 /home/betterme/code/jichengfuhe.h
 iostream
 -
@@ -31,6 +41,14 @@ iostream
 -
 virtualtest.h
 /home/betterme/code/virtualtest.h
+vector
+-
+algorithm
+-
+functional
+-
+TestArray.h
+/home/betterme/code/TestArray.h
 
 /home/betterme/code/virtualtest.h
 iostream

@@ -50,7 +50,15 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "bit": "cpp"
+        "bit": "cpp",
+        "list": "cpp",
+        "forward_list": "cpp",
+        "unordered_set": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "slist": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
